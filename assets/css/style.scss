@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 .main-content {
-	border: 8px solid black;
+	border: 1px solid black;
 }
 
 table {
@@ -12,11 +12,11 @@ table {
 }
 
 table, th, td {
-	border: 8px solid black;
+	border: 1px solid black;
 	border-style: solid;
 }
 
 td {
-	border: 8px solid black;
+	border: 1px solid black;
 	border-style: solid;
 }
