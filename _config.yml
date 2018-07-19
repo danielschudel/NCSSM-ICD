@@ -1,5 +1,6 @@
 theme: jekyll-theme-cayman
 title: Immaculate Conception and NCSSM
 description: Information on how interested NCSSM students can attend Mass and other events at Immaculate Conception Catholic Church
+show_downloads: false
 github:
           is_project_page: false
