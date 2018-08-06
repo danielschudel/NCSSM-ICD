@@ -1,6 +1,6 @@
 # Rides to and from NCSSM and Immaculate Conception Catholic Church
 
-The community of Durham's [Immaculate Conception Catholic Church](http://icdurham.org/) have long enjoyed the 
+The community of Durham's [Immaculate Conception Catholic Church](http://icdurham.org/) has long enjoyed the 
 presence of NCSSM students at our weekend Masses. We will continue to work to provide rides for you between
 Immaculate Conception and the NCSSM campus.
 
