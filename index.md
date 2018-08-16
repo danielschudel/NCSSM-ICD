@@ -13,18 +13,18 @@ Please sign-up using the active link below so that we know to expect you that we
 Check this page ([https://ncssmicd.page.link/sign-up](https://ncssmicd.page.link/sign-up))
 each week for new sign-up links.
 
-|First Weekend   |Second Weekend |Third Weekend         |Fourth Weekend|Holy Days/Other        |
-|---------------:|--------------:|---------------------:|-------------:|----------------------:|
+|First Weekend   |Second Weekend |Third Weekend         |Fourth Weekend|Holy Days/Other         |
+|---------------:|--------------:|---------------------:|-------------:|-----------------------:|
 |[Aug  12](https://www.signupgenius.com/go/10C0B4CAFA82BA13-august8)         |[Aug 19](https://www.signupgenius.com/go/10C0B4CAFA82BA13-august9)     |Aug  25/26            |              |                       |
-|Sept  8/9       |Sept 15/16     |Sept 22/23            |              |                       |
-|Oct   6/7       |Oct  13/14     |Oct  20/21            |Oct 27/28     |                       |
-|Nov  10/11      |               |                      |              |                       |
-|Dec   1/2       |Dec   8/9      |Dec  15/16            |              |                       |
-|Jan  12/13      |Jan  19/20     |                      |              |                       |
-|Feb   2/3       |Feb   9/10     |Feb  23/24 (Mini-Term)|              |                       |
-|Mar   2/3       |Mar   9/10     |Mar  16/17            |Mar   30/31   |Mar 6 (Ash Wednesday)  |
-|Apr   6/7 (Prom)|Apr  13/14     |                      |              |                       |
-|May   4/5       |May  11/12     |May  18/19            |              |                       |
+|Sept  8/9       |Sept 15/16     |Sept 22/23            |              |Sept 8th brunch/training|
+|Oct   6/7       |Oct  13/14     |Oct  20/21            |Oct 27/28     |                        |
+|Nov  10/11      |               |                      |              |                        |
+|Dec   1/2       |Dec   8/9      |Dec  15/16            |              |                        |
+|Jan  12/13      |Jan  19/20     |                      |              |                        |
+|Feb   2/3       |Feb   9/10     |Feb  23/24 (Mini-Term)|              |                        |
+|Mar   2/3       |Mar   9/10     |Mar  16/17            |Mar   30/31   |Mar 6 (Ash Wednesday)   |
+|Apr   6/7 (Prom)|Apr  13/14     |                      |              |                        |
+|May   4/5       |May  11/12     |May  18/19            |              |                        |
 
 
 On behalf of Immaculate Conception, *Welcome to Durham*, and we look forward to meeting each of you this year,
