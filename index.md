@@ -15,8 +15,8 @@ each week for new sign-up links.
 
 |First Weekend   |Second Weekend |Third Weekend         |Fourth Weekend|Holy Days/Other         |
 |---------------:|--------------:|---------------------:|-------------:|-----------------------:|
-|Aug  12         |Aug 19         |[Aug 26](https://www.signupgenius.com/go/10C0B4CAFA82BA13-august10)               |              |                       |
-|Sept  8/9       |Sept 15/16     |Sept 22/23            |              |Sept 8th brunch/training|
+|Aug  12         |Aug 19         |Aug 26                |              |                        |
+|[Sept  8/9](https://www.signupgenius.com/go/10C0B4CAFA82BA13-september8)       |Sept 15/16     |Sept 22/23            |              |Sept 8th brunch/training|
 |Oct   6/7       |Oct  13/14     |Oct  20/21            |Oct 27/28     |                        |
 |Nov  10/11      |               |                      |              |                        |
 |Dec   1/2       |Dec   8/9      |Dec  15/16            |              |                        |
