@@ -16,8 +16,8 @@ each week for new sign-up links.
 |First Weekend   |Second Weekend |Third Weekend         |Fourth Weekend|Holy Days/Other         |
 |---------------:|--------------:|---------------------:|-------------:|-----------------------:|
 |Aug  12         |Aug 19         |Aug 26                |              |                        |
-|Sept  8/9       |Sept 15/16     |[Sept 23](https://www.signupgenius.com/go/10C0B4CAFA82BA13-september9)            |              |                        |
-|Oct   6/7       |Oct  13/14     |Oct  20/21            |Oct 27/28     |                        |
+|Sept  8/9       |Sept 15/16     |Sept 23               |              |                        |
+|[Oct   6/7](https://www.signupgenius.com/go/10c0b4cafa82ba13-october11)       |Oct  13/14     |Oct  20/21            |Oct 27/28     |                        |
 |Nov  10/11      |               |                      |              |                        |
 |Dec   1/2       |Dec   8/9      |Dec  15/16            |              |                        |
 |Jan  12/13      |Jan  19/20     |                      |              |                        |
