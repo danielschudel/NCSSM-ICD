@@ -21,7 +21,7 @@ each week for new sign-up links.
 |                   |Nov  10/11     |                         |                |                        |
 |Dec   1/2 (YM)     |Dec   8/9      |Dec  16 (YM)             |                |                        |
 |                   |Jan  12/13     |Jan  20 (YM)             |                |                        |
-|[Feb   2/3 (YM)](https://www.signupgenius.com/go/10C0B4CAFA82BA13-february9)     |Feb   9/10     |Feb  23/24 (Mini-Term/YM)|                |                        |
+|Feb   2/3 (YM)     |[Feb   10](https://www.signupgenius.com/go/10c0b4cafa82ba13-february10)     |Feb  23/24 (Mini-Term/YM)|                |                        |
 |Mar   2/3 (YM)     |Mar   9/10     |Mar  16/17 (YM)          |Mar   30/31 (YM)|Mar 6 (Ash Wednesday)   |
 |Apr   6/7 (Prom/YM)|Apr  13/14     |                         |                |                        |
 |May   4/5 (YM)     |May  11/12     |May  18/19               |                |                        |
