@@ -40,9 +40,3 @@ Daniel Schudel
 Look for me in Bryan Lobby on Sunday mornings. I'll be coordinating the rides with individual drivers.
 
 ![Daniel](Images/daniel.jpg "Daniel")
-
-### Kathy
-
-Kathy often drives for the Saturday 5:30 Mass.
-
-![Kathy](Images/kathy.jpg "Kathy")
