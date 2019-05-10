@@ -24,7 +24,7 @@ each week for new sign-up links.
 |Feb   2/3 (YM)     |Feb   10       |Feb  24 (Mini-Term/YM)   |                |                        |
 |Mar     3 (YM)     |Mar   10       |Mar  17 (YM)             |Mar   31 (YM)   |Mar 6 (Ash Wednesday)   |
 |Apr   7 (Prom/YM)  |Apr  14        |                         |                |                        |
-|[May   5](https://www.signupgenius.com/go/10c0b4cafa82ba13-may5th)     |May  11/12     |May  18/19               |                |                        |
+|May   5            |[May  12](https://www.signupgenius.com/go/10C0B4CAFA82BA13-may12th)     |May  18/19               |                |                        |
 
 
 On behalf of Immaculate Conception, *Welcome to Durham*, and we look forward to meeting each of you this year,
