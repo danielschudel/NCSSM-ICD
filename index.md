@@ -15,16 +15,16 @@ each week for new sign-up links.
 
 |First Weekend      |Second Weekend |Third Weekend            |Fourth Weekend  |Holy Days/Other         |
 |------------------:|--------------:|------------------------:|---------------:|-----------------------:|
-|Aug  12            |Aug 19         |Aug 26                   |                |                        |
-|Sept  8/9          |Sept 15/16     |Sept 23                  |                |                        |
-|Oct   7            |Oct  14        |Oct  20/21               |Oct 27/28       |                        |
-|                   |Nov  10/11     |                         |                |                        |
-|Dec   1/2 (YM)     |Dec   8/9      |Dec  16 (YM)             |                |                        |
-|                   |Jan  12/13     |Jan  20 (YM)             |                |                        |
-|Feb   2/3 (YM)     |Feb   10       |Feb  24 (Mini-Term/YM)   |                |                        |
-|Mar     3 (YM)     |Mar   10       |Mar  17 (YM)             |Mar   31 (YM)   |Mar 6 (Ash Wednesday)   |
-|Apr   7 (Prom/YM)  |Apr  14        |                         |                |                        |
-|May   5            |May  12        |[May  19](https://www.signupgenius.com/go/10c0b4cafa82ba13-may19th)               |                |                        |
+|Aug  11            |Aug 18         |Aug 25                   |                |                        |
+|Sept  8            |Sept 15        |Sept 22                  |                |                        |
+|Oct   6            |Oct  13        |Oct  20                  |Oct 27          |                        |
+|Nov  10            |Nov  17        |                         |                |                        |
+|Dec   8            |Dec  15        |                         |                |                        |
+|Jan  12            |Jan  19        |                         |                |                        |
+|Feb   2            |Feb   9        |Feb  23                  |                |Feb 26 (Ash Wednesday)  |
+|Mar   1            |Mar   8        |Mar  22                  |Mar     29      |                        |
+|Apr   5 (Prom)     |Apr  26        |                         |                |                        |
+|May   3            |May  10        |May  17                  |                |                        |
 
 
 On behalf of Immaculate Conception, *Welcome to Durham*, and we look forward to meeting each of you this year,
