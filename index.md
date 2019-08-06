@@ -10,7 +10,7 @@ Immaculate Conception and the NCSSM campus.
 
 Please sign-up using the active link below so that we know to expect you that weekend.
 
-Check this page ([https://ncssmicd.page.link/sign-up](https://ncssmicd.page.link/sign-up))
+Check this page ([https://danielschudel.github.io/NCSSM-ICD/](https://danielschudel.github.io/NCSSM-ICD/))
 each week for new sign-up links.
 
 |First Weekend      |Second Weekend |Third Weekend            |Fourth Weekend  |Holy Days/Other         |
