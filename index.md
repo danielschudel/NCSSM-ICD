@@ -32,3 +32,11 @@ On behalf of Immaculate Conception, *Welcome to Durham*, and we look forward to 
 Daniel Schudel
 
 [dan.schudel@gmail.com](mailto:dan.schudel@gmail.com)
+
+## This Year's Drivers
+
+### Daniel
+
+Look for me in Bryan Lobby on Sunday mornings. I'll be coordinating the rides with individual drivers.
+
+![Daniel](Images/daniel.jpg "Daniel")
