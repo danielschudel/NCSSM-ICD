@@ -8,7 +8,7 @@ Immaculate Conception and the NCSSM campus.
 * See the sign-up sheet for the meeting time as it will vary based on what Mass you are attending
 * After Mass we all meet back together again in the Church's gathering space, near the main entrance doors, for the return trip to campus.
 
-Please sign-up using the active link below so that we know to expect you that weekend.
+Please sign-up using the day's link in the table below so that we know to expect you that weekend.
 
 Check this page ([https://danielschudel.github.io/NCSSM-ICD/](https://danielschudel.github.io/NCSSM-ICD/))
 each week for new sign-up links.
