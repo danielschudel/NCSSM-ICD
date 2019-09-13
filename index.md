@@ -17,7 +17,7 @@ each week for new sign-up links.
 |------------------:|--------------:|------------------------:|---------------:|-----------------------:|
 |Aug  11            |Aug 18         |Aug 25                   |                |                        |
 |Sept  8            |[Sept 15](https://www.signupgenius.com/go/10c0b4cafa82ba13-september11)        |Sept 22                  |                |                        |
-|Oct   6            |Oct  13        |Oct  20                  |Oct 27          |                        |
+|Oct   6            |Oct  13        |Oct  20                  |Oct 27          |Oct 5 - Multicultural Celebration|
 |Nov  10            |Nov  17        |                         |                |                        |
 |Dec   8            |Dec  15        |                         |                |                        |
 |Jan  12            |Jan  19        |                         |                |                        |
