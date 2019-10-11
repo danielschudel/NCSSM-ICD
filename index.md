@@ -17,7 +17,7 @@ each week for new sign-up links.
 |------------------:|--------------:|------------------------:|---------------:|-----------------------:|
 |Aug  11            |Aug 18         |Aug 25                   |                |                        |
 |Sept  8            |Sept 15        |Sept 22                  |                |                        |
-|[Oct   5/6](https://www.signupgenius.com/go/10C0B4CAFA82BA13-october15)            |Oct  13        |Oct  20                  |Oct 27          |                        |
+|Oct   5/6          |~~Oct  13~~    |Oct  20                  |Oct 27          |                        |
 |Nov  10            |Nov  17        |                         |                |                        |
 |Dec   8            |Dec  15        |                         |                |                        |
 |Jan  12            |Jan  19        |                         |                |                        |
