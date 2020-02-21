@@ -21,7 +21,7 @@ each week for new sign-up links.
 |Nov  10            |Nov  17        |                         |                |                        |
 |Dec   8            |Dec  15        |                         |                |                        |
 |Jan  12            |Jan  19        |                         |                |                        |
-|Feb   2            |[Feb   9](https://www.signupgenius.com/go/10c0b4cafa82ba13-february13)        |Feb  23                  |                |Feb 26 (Ash Wednesday)  |
+|Feb   2            |Feb   9        |[Feb  23](https://www.signupgenius.com/go/10C0B4CAFA82BA13-february14)                  |                |Feb 26 (Ash Wednesday)  |
 |Mar   1            |Mar   8        |Mar  22                  |Mar     29      |                        |
 |Apr   5 (Prom)     |Apr  26        |                         |                |                        |
 |May   3            |May  10        |May  17                  |                |                        |
