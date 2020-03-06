@@ -22,7 +22,7 @@ each week for new sign-up links.
 |Dec   8            |Dec  15        |                         |                |                        |
 |Jan  12            |Jan  19        |                         |                |                        |
 |Feb   2            |Feb   9        |                         |                |                        |
-|[Mar   1](https://www.signupgenius.com/go/10C0B4CAFA82BA13-march16)            |Mar   8        |Mar  22                  |Mar     29      |                        |
+|Mar   1            |[Mar   8](https://www.signupgenius.com/go/10c0b4cafa82ba13-march17)        |Mar  22                  |Mar     29      |                        |
 |Apr   5 (Prom)     |Apr  26        |                         |                |                        |
 |May   3            |May  10        |May  17                  |                |                        |
 
