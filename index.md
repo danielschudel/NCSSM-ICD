@@ -1,42 +1,26 @@
 # Rides to and from NCSSM and Immaculate Conception Catholic Church
 
 The community of Durham's [Immaculate Conception Catholic Church](http://icdurham.org/) has long enjoyed the 
-presence of NCSSM students at our weekend Masses. We will continue to work to provide rides for you between
-Immaculate Conception and the NCSSM campus.
+presence of NCSSM students at our weekend Masses. Parishioners traditionally provide rides for students
+between NCSSM and Immaculate Conception for the Sunday 9:30 AM Mass.
 
-* We meet in Bryan lobby prior to Mass for pick-up.
-* See the sign-up sheet for the meeting time as it will vary based on what Mass you are attending
-* After Mass we all meet back together again in the Church's gathering space, near the main entrance doors, for the return trip to campus.
+Due to COVID-19, this year will need to be different. COVID-19 has curtailed the majority of regular celebrated Mass times.
+Our regular Sunday 9:30AM Mass is celebrated without attendees present, but, is broadcasted through YouTube.
+Additionally, while at NCSSM,
+students will not be permitted to use ride sharing services and are discouraged from riding in vehicles in the greater Triangle
+area.
 
-Please sign-up using the day's link in the table below so that we know to expect you that weekend.
+I can provide the following aides for remaining in touch with your faith while on campus:
 
-Check this page ([https://danielschudel.github.io/NCSSM-ICD/](https://danielschudel.github.io/NCSSM-ICD/))
-each week for new sign-up links.
+1. [www.icdurham.org](http://www.icdurham.org/) - The main Parish website has embedded YouTube video players where you can
+   watch the 9:30 Sunday Mass live - or replayed at a later more convenient time.
+1. [General Mass Schedule](http://www.icdurham.org/mass-and-devotion-schedule-and-archive.html) - This explains what Mass times
+   are celebrated with attendees, and which are broadcast only.
+1. [Parish YouTube Channel](https://www.youtube.com/channel/UCWHb9hem4de1IsQ_a6v5upg) - Subscribe and set that notification
+   bell. You receive notifications on upcoming Masses, and, videos that the Friars post from time to time.
 
-|First Weekend      |Second Weekend |Third Weekend            |Fourth Weekend  |Holy Days/Other         |
-|------------------:|--------------:|------------------------:|---------------:|-----------------------:|
-|Aug  11            |Aug 18         |Aug 25                   |                |                        |
-|Sept  8            |Sept 15        |Sept 22                  |                |                        |
-|Oct   5/6          |~~Oct  13~~    |Oct  20                  |Oct 27          |                        |
-|Nov  10            |Nov  17        |                         |                |                        |
-|Dec   8            |Dec  15        |                         |                |                        |
-|Jan  12            |Jan  19        |                         |                |                        |
-|Feb   2            |Feb   9        |                         |                |                        |
-|Mar   1            |[Mar   8](https://www.signupgenius.com/go/10c0b4cafa82ba13-march17)        |Mar  22                  |Mar     29      |                        |
-|Apr   5 (Prom)     |Apr  26        |                         |                |                        |
-|May   3            |May  10        |May  17                  |                |                        |
-
-
-On behalf of Immaculate Conception, *Welcome to Durham*, and we look forward to meeting each of you this year,
+On behalf of Immaculate Conception, *Welcome to Durham*! We keep our hopes high that we can meet each of you this year,
 
 Daniel Schudel
 
 [dan.schudel@gmail.com](mailto:dan.schudel@gmail.com)
-
-## This Year's Drivers
-
-### Daniel
-
-Look for me in Bryan Lobby on Sunday mornings. I'll be coordinating the rides with individual drivers.
-
-![Daniel](Images/daniel.jpg "Daniel")
