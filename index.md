@@ -42,5 +42,5 @@ For those that will not be able to make it to one of the outdoor Masses - I can 
 
 
 Daniel Schudel
-
+Class of 1992, and parent of current NCSSM student (class of 2022)
 [dan.schudel@gmail.com](mailto:dan.schudel@gmail.com)
