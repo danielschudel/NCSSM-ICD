@@ -18,7 +18,7 @@ biking and about 30 minutes walking. I am willing to coordinate and be present f
 If you are interested in biking or walking to Mass - please let me know by filling out this short survey. Cohort-A students should also
 fill out the survey so that we are prepared for 2021.
 
-[NCSSM/Immaculate Conception Outdoor Survey](https://forms.gle/1hFhVfFdLaxxnG7h8)
+[NCSSM/Immaculate Conception Outdoor Mass Survey](https://forms.gle/1hFhVfFdLaxxnG7h8)
 
 ## Preliminary Fall 2020 Mass Schedule:
 
