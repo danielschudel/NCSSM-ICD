@@ -48,6 +48,6 @@ On behalf of Immaculate Conception, *Welcome to Durham*, and I look forward to m
 
 Daniel Schudel
 
-NCSSM class of 1992, and parent of current NCSSM student
+NCSSM class of 1992, and, parent of current NCSSM student
 
 [dan.schudel@gmail.com](mailto:dan.schudel@gmail.com)
