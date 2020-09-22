@@ -13,20 +13,22 @@ until a vaccine is widely available.
 Immaculate Conception will be holding outdoor Masses
 beginning the weekend of October 4th. This timing will align with you students that are on campus with Cohort-B. We can explore
 biking or walking between the NCSSM campus and Immaculate Conception. The distance is about 2 miles, which would be about 15 minutes
-biking and about 30 minutes walking.
+biking and about 30 minutes walking. I am willing to coordinate and be present for these rides/walks.
 
 If you are interested in biking or walking to Mass - please let me know by filling out this short survey. Cohort-A students should also
 fill out the survey so that we are prepared for 2021.
 
-[NCSSM/Immaculate Conception Survey](https://forms.gle/1hFhVfFdLaxxnG7h8)
+[NCSSM/Immaculate Conception Outdoor Survey](https://forms.gle/1hFhVfFdLaxxnG7h8)
 
-## Preliminary Mass Schedule:
+## Preliminary Fall 2020 Mass Schedule:
 
 |First Weekend      |Second Weekend |Third Weekend            |Fourth Weekend  |Holy Days/Other         |
 |------------------:|--------------:|------------------------:|---------------:|-----------------------:|
 |~~Oct 4~~          |Oct 11         |Oct 18                   |Oct 25          |                        |
 |Nov   1            |Nov 8          |Nov 15                   |                |                        |
 
+
+## Other Resources from Immaculate Conception
 
 For those that will not be able to make it to one of the outdoor Masses - I can provide the following aides for remaining in touch with your faith while on campus:
 
@@ -37,7 +39,7 @@ For those that will not be able to make it to one of the outdoor Masses - I can 
 1. [Parish YouTube Channel](https://www.youtube.com/channel/UCWHb9hem4de1IsQ_a6v5upg) - Subscribe and set that notification
    bell. You receive notifications on upcoming Masses, and, videos that the Friars post from time to time.
 
-On behalf of Immaculate Conception, *Welcome to Durham*!
+
 
 Daniel Schudel
 
