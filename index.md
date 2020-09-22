@@ -40,7 +40,14 @@ For those that will not be able to make it to one of the outdoor Masses - I can 
    bell. You receive notifications on upcoming Masses, and, videos that the Friars post from time to time.
 
 
+## Contact Information
+
+Please feel free to contact me at the email address below. I'll also share my personal phone number once you are signed up for a weekend Mass.
+
+On behalf of Immaculate Conception, *Welcome to Durham*, and I look forward to meeting each of you this year.
 
 Daniel Schudel
-Class of 1992, and parent of current NCSSM student (class of 2022)
+
+NCSSM class of 1992, and parent of current NCSSM student
+
 [dan.schudel@gmail.com](mailto:dan.schudel@gmail.com)
