@@ -12,10 +12,10 @@ until a vaccine is widely available.
 
 Immaculate Conception will be holding outdoor Masses
 beginning the weekend of October 4th. This timing will align with you students that are on campus with Cohort-B. We can explore
-biking or walking between the NCSSM campus and Immaculate Conception. The distance is about 2 miles, which would be about 15 minutes
-biking and about 30 minutes walking. I am willing to coordinate and be present for these rides/walks.
+biking between the NCSSM campus and Immaculate Conception. The distance is about 2.5 miles, which would be about 15 minutes
+biking. I am willing to coordinate and be present for these rides.
 
-If you are interested in biking or walking to Mass - please let me know by filling out this short survey. Cohort-A students should also
+If you are interested in biking - please let me know by filling out this short info page. Cohort-A students should also
 fill out the survey so that we are prepared for 2021.
 
 [NCSSM/Immaculate Conception Outdoor Mass Survey](https://forms.gle/1hFhVfFdLaxxnG7h8)
@@ -24,7 +24,7 @@ fill out the survey so that we are prepared for 2021.
 
 |First Weekend      |Second Weekend |Third Weekend            |Fourth Weekend  |Holy Days/Other         |
 |------------------:|--------------:|------------------------:|---------------:|-----------------------:|
-|~~Oct 4~~          |Oct 11         |Oct 18                   |Oct 25          |                        |
+|~~Oct 4~~          |~~Oct 11~~     |Oct 18                   |Oct 25          |                        |
 |Nov   1            |Nov 8          |Nov 15                   |                |                        |
 
 
