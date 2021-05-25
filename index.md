@@ -4,41 +4,24 @@ The community of Durham's [Immaculate Conception Catholic Church](http://icdurha
 presence of NCSSM students at our weekend Masses. Parishioners traditionally provide rides for students
 between NCSSM and Immaculate Conception for the Sunday 9:30 AM Mass.
 
-Due to COVID-19, this year will need to be different, in that we will not be able to provide rides to Immaculate Conception
-via vehicle. NCSSM is restricting students from using ride-share, plus, our regular drivers are not comfortable providing rides
-until a vaccine is widely available.
+Due to COVID-19, the 2020-2021 academic year was quite different. We primarily worked to provide group bike rides
+to outdoor Masses at Immaculate Conception. This was due to NCSSM restrictions not allowing ride-share, and, due to
+general availability of a COVID-19 vaccine.
 
-## Outdoor Masses for Fall 2020
+## Masses for 2021/2022
 
-Immaculate Conception will be holding outdoor Masses
-beginning the weekend of October 4th. This timing will align with you students that are on campus with Cohort-B. We can explore
-biking between the NCSSM campus and Immaculate Conception. The distance is about 2.5 miles, which would be about 15 minutes
-biking. I am willing to coordinate and be present for these rides.
+I understand that NCSSM will be moving to full capacity and a full calendar for the 2021/2022 academic year. It isn't clear
+to me at this moment if the off-campus travel restrictions will remain in place. Once there is clarity on travel, I'll decide
+if we can provide car rides or if we need to continue group bike rides.
 
-If you are interested in biking - please let me know by filling out this short info page. Cohort-A students should also
-fill out the survey so that we are prepared for 2021.
+If we are permitted to provide car rides to students, know that volunteer drivers have completed the required Diocesan training,
+as well as having been vaccinated against COVID-19.
 
-[NCSSM/Immaculate Conception Outdoor Mass Survey](https://forms.gle/1hFhVfFdLaxxnG7h8)
-
-## Preliminary Fall 2020 Mass Schedule:
+## Preliminary 2021/2022 Mass Schedule:
 
 |First Weekend      |Second Weekend |Third Weekend            |Fourth Weekend  |Holy Days/Other         |
 |------------------:|--------------:|------------------------:|---------------:|-----------------------:|
-|~~Oct 4~~          |~~Oct 11~~     |Oct 18                   |Oct 25          |                        |
-|Nov   1            |Nov 8          |Nov 15                   |                |                        |
-
-
-## Other Resources from Immaculate Conception
-
-For those that will not be able to make it to one of the outdoor Masses - I can provide the following aides for remaining in touch with your faith while on campus:
-
-1. [www.icdurham.org](http://www.icdurham.org/) - The main Parish website has embedded YouTube video players where you can
-   watch the 9:30 Sunday Mass live - or replayed at a later more convenient time.
-1. [General Mass Schedule](http://www.icdurham.org/mass-and-devotion-schedule-and-archive.html) - This explains what Mass times
-   are celebrated with attendees, and which are broadcast only.
-1. [Parish YouTube Channel](https://www.youtube.com/channel/UCWHb9hem4de1IsQ_a6v5upg) - Subscribe and set that notification
-   bell. You receive notifications on upcoming Masses, and, videos that the Friars post from time to time.
-
+|Aug 8              |Aug 15         |Aug 22                   |Aug 29          |                        |
 
 ## Contact Information
 
@@ -48,6 +31,6 @@ On behalf of Immaculate Conception, *Welcome to Durham*, and I look forward to m
 
 Daniel Schudel
 
-NCSSM class of 1992, and, parent of current NCSSM student
+NCSSM class of 1992, and, parent of current NCSSM senior
 
 [dan.schudel@gmail.com](mailto:dan.schudel@gmail.com)
