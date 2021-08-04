@@ -28,6 +28,11 @@ If you are interested in riding your bike to Mass, use an active link below to s
 |------------------:|--------------:|------------------------:|---------------:|-----------------------:|
 |                   |Aug 15         |Aug 22                   |Aug 29          |                        |
 
+## Future Consideration
+
+I'll continue to monitor NCSSM policies as well as local COVID infection rates. Once we are in the clear again, I will resume coordinating rides to Mass. As a precaution, all drivers will be vaccinated 
+against COVID, and I will ask the same of any student that rides in our personal vehicles.
+
 ## Contact Information
 
 Please feel free to contact me at the email address below.
