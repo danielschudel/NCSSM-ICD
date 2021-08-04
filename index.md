@@ -17,7 +17,7 @@ with respect to COVID. They are holding off on running the Durham bus loops, dis
 With that in mind, we will not begin the year offering personal car/van rides to Mass at Immaculate Conception.
 
 Instead, I will continue to offer to lead bike rides from the NCSSM campus to Immaculate Conception on Sundays when the weather is nice and the parish holds outdoor Mass.
-The bike ride is a very easy and pleasant ride through mostly residential areas. Sunday morning streets in Durham always have little car traffic. The one-way trip time is maybe about
+The bike ride is a very easy and pleasant ride through mostly residential areas. Sunday morning streets in Durham always have little car traffic. The one-way trip time is just about
 15 minutes.
 
 ## Preliminary 2021/2022 Mass Schedule:
@@ -26,7 +26,16 @@ If you are interested in riding your bike to Mass, use an active link below to s
 
 |First Weekend      |Second Weekend |Third Weekend            |Fourth Weekend  |Holy Days/Other         |
 |------------------:|--------------:|------------------------:|---------------:|-----------------------:|
-|                   |Aug 15         |Aug 22                   |Aug 29          |                        |
+|Aug 15             |Aug 22         |Aug 29                   |                |                        |
+|Sept 12            |Sept 19        |Sept 26                  |                |                        |
+|Oct 10             |Oct 17         |Oct 24                   |                |                        |
+|Nov 7              |Nov 14         |                         |                |                        |
+|Dec 5              |               |                         |                |                        |
+|Jan 9              |Jan 16         |Jan 23                   |                |                        |
+|Feb 6              |Feb 13         |Feb 20                   |                |                        |
+|Mar 6              |Mar 13         |Mar 27                   |                |                        |
+|Apr 3              |Apr 24         |                         |                |                        |
+|May 1              |May 7          |May 14                   |May 21          |                        |
 
 ## Future Consideration
 
