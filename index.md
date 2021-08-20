@@ -26,7 +26,7 @@ If you are interested in riding your bike to Mass, use an active link below to s
 
 |First Weekend      |Second Weekend |Third Weekend            |Fourth Weekend  |Holy Days/Other         |
 |------------------:|--------------:|------------------------:|---------------:|-----------------------:|
-|[Aug 15](https://www.signupgenius.com/go/10C0B4CAFA82BA13-august14)             |Aug 22         |Aug 29                   |                |                        |
+|Aug 15             |[Aug 22](https://www.signupgenius.com/go/10C0B4CAFA82BA13-august15)         |Aug 29                   |                |                        |
 |Sept 12            |Sept 19        |Sept 26                  |                |                        |
 |Oct 10             |Oct 17         |Oct 24                   |                |                        |
 |Nov 7              |Nov 14         |                         |                |                        |
