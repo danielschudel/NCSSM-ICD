@@ -8,7 +8,7 @@ between NCSSM and Immaculate Conception for the Sunday 9:30 AM Mass.
 
 * We require that all riders be fully vaccinated. All drivers are fully vaccinated also.
 * Will remain masked while in vehicles.
-* Limiting the number of riders.
+* We are limiting the number of riders.
 
 ## Masses for 2021/2022
 
