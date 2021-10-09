@@ -6,7 +6,7 @@ between NCSSM and Immaculate Conception for the Sunday 9:30 AM Mass.
 
 ## COVID-19 Considerations
 
-* We are require that all riders be fully vaccinated. All drivers are fully vaccinated also.
+* We require that all riders be fully vaccinated. All drivers are fully vaccinated also.
 * Will remain masked while in vehicles.
 * Limiting the number of riders.
 
