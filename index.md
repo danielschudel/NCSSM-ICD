@@ -4,31 +4,21 @@ The community of Durham's [Immaculate Conception Catholic Church](http://icdurha
 presence of NCSSM students at our weekend Masses. Parishioners traditionally provide rides for students
 between NCSSM and Immaculate Conception for the Sunday 9:30 AM Mass.
 
-Due to COVID-19, the 2020-2021 academic year was quite different. I primarily worked to lead group bike rides
-to outdoor Masses at Immaculate Conception. This was due to NCSSM restrictions not allowing ride-share, and, due to
-general lack of availability of a COVID-19 vaccine.
+## COVID-19 Considerations
+
+* We are require that all riders be fully vaccinated. All drivers are fully vaccinated also.
+* Will remain masked while in vehicles.
+* Limiting the number of riders.
 
 ## Masses for 2021/2022
 
-It is good news that NCSSM will be moving to full capacity and a full calendar for the 2021/2022 academic year. Welcome to Durham
-everyone! The parent meeting on Aug-2 made it clear, however, that the NCSSM administration is approaching this year very cautiously
-with respect to COVID. They are holding off on running the Durham bus loops, discouraging use of ride-share (Uber/Lyft), and discouraging public transportation.
-
-With that in mind, we will not begin the year offering personal car/van rides to Mass at Immaculate Conception.
-
-Instead, I will continue to offer to lead bike rides from the NCSSM campus to Immaculate Conception on Sundays when the weather is nice and the parish holds outdoor Mass.
-The bike ride is a very easy and pleasant ride through mostly residential areas. Sunday morning streets in Durham always have little car traffic. The one-way trip time is just about
-15 minutes.
-
-## Preliminary 2021/2022 Mass Schedule:
-
-If you are interested in riding your bike to Mass, use an active link below to sign up. I'll know to expect you and to coordinate last minute weather decisions with you.
+If you are interested in a ride to Mass, use an active link below to sign up.
 
 |First Weekend      |Second Weekend |Third Weekend            |Fourth Weekend  |Holy Days/Other         |
 |------------------:|--------------:|------------------------:|---------------:|-----------------------:|
-|Aug 15             |[Aug 22](https://www.signupgenius.com/go/10C0B4CAFA82BA13-august15)         |Aug 29                   |                |                        |
+|Aug 15             |Aug 22         |Aug 29                   |                |                        |
 |Sept 12            |Sept 19        |Sept 26                  |                |                        |
-|Oct 10             |Oct 17         |Oct 24                   |                |                        |
+|[Oct 10](https://www.signupgenius.com/go/10C0B4CAFA82BA13-october18)             |Oct 17         |Oct 24                   |                |                        |
 |Nov 7              |Nov 14         |                         |                |                        |
 |Dec 5              |               |                         |                |                        |
 |Jan 9              |Jan 16         |Jan 23                   |                |                        |
@@ -36,11 +26,6 @@ If you are interested in riding your bike to Mass, use an active link below to s
 |Mar 6              |Mar 13         |Mar 27                   |                |                        |
 |Apr 3              |Apr 24         |                         |                |                        |
 |May 1              |May 7          |May 14                   |May 21          |                        |
-
-## Future Consideration
-
-I'll continue to monitor NCSSM policies as well as local COVID infection rates. Once we are in the clear again, I will resume coordinating rides to Mass. As a precaution, all drivers will be vaccinated 
-against COVID, and I will ask the same of any student that rides in our personal vehicles.
 
 ## Contact Information
 
