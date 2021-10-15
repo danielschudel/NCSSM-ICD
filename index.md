@@ -18,7 +18,7 @@ If you are interested in a ride to Mass, use an active link below to sign up.
 |------------------:|--------------:|------------------------:|---------------:|-----------------------:|
 |Aug 15             |Aug 22         |Aug 29                   |                |                        |
 |Sept 12            |Sept 19        |Sept 26                  |                |                        |
-|[Oct 10](https://www.signupgenius.com/go/10C0B4CAFA82BA13-october18)             |Oct 17         |Oct 24                   |                |                        |
+|                   |[Oct 17](https://www.signupgenius.com/go/10C0B4CAFA82BA13-october19)         |Oct 24                   |                |                        |
 |Nov 7              |Nov 14         |                         |                |                        |
 |Dec 5              |               |                         |                |                        |
 |Jan 9              |Jan 16         |Jan 23                   |                |                        |
