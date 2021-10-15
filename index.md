@@ -9,6 +9,7 @@ between NCSSM and Immaculate Conception for the Sunday 9:30 AM Mass.
 * We require that all riders be fully vaccinated. All drivers are fully vaccinated also.
 * Will remain masked while in vehicles.
 * We are limiting the number of riders.
+* You can attend Mass inside the church or outside. I usually attend the outdoor Mass outdoors (weather permitting).
 
 ## Masses for 2021/2022
 
